@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Web App Development ( mobile integration )**
 
-- 🌱 I'm currently learning **TypeScript **
+- 🌱 I'm currently learning **TypeScript**
 
 - 🤝 I'm looking for help with **ESP32 microcontrollers programmed using the Arduino framework (C/C++)**
 
