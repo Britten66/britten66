@@ -12,9 +12,12 @@
 
 - 📫 How to reach me **britten63@hotmail.com**
 
-- ⚡ Fun fact **Powered by Java ☕**
+- ⚡ Fun fact **Sound can be minus decibels.**
 
 - 👨‍💻 All of my projects are available at **[https://chrisbritten.ca/](https://chrisbritten.ca/)**
+
+
+Powered by Java ☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
