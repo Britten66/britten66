@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning **TypeScript**
 - 🤝 I'm looking for help with **ESP32 microcontrollers programmed using the Arduino framework (C/C++)**
 - 💬 Ask me about **Testing, Automation, Workflow Ideas**
-- 📫 How to reach me **[britten63@hotmail.com](mailto:britten63@hotmail.com)**
+- 📫 How to reach me **[chris@chrisbritten.ca](mailto:chris@chrisbritten.ca)**
 - ⚡ Fun fact **Sound can be minus decibels.**
 - 👨‍💻 All of my projects are available at **[https://chrisbritten.ca/](https://chrisbritten.ca/)**
 
