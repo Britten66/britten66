@@ -2,7 +2,7 @@
 ### Full Stack Developer
 - 🔭 I'm currently working on **Web App Development ( mobile integration )**
 - 🌱 I'm currently learning **TypeScript**
-- 🤝 I'm looking for help with **ESP32 microcontrollers programmed using the Arduino framework (C/C++)**
+- 🤝 I'm looking for help with **ESP32 microcontrollers/Arduino framework**
 - 💬 Ask me about **Testing, Automation, Workflow Ideas**
 - 📫 How to reach me **[chris@chrisbritten.ca](mailto:chris@chrisbritten.ca)**
 - ⚡ Fun fact **Sound can be minus decibels.**
