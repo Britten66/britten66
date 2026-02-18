@@ -6,7 +6,7 @@
 - 💬 Ask me about **Testing, Automation, Workflow Ideas**
 - 📫 How to reach me **[chris@chrisbritten.ca](mailto:chris@chrisbritten.ca)**
 - ⚡ Fun fact **Sound can be minus decibels.**
-- 👨‍💻 All of my projects are available at **[https://chrisbritten.ca/](https://chrisbritten.ca/)**
+- 👨‍💻 Some of my top projects are available at **[https://chrisbritten.ca/](https://chrisbritten.ca/)**
 
 Powered by Java ☕
 
