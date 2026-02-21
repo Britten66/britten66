@@ -1,12 +1,12 @@
 # Hi 👋, I'm Christopher Britten
 ### Full Stack Developer
-- 🔭 I'm currently working on **Scaling Web Applications**
-- 🌱 I'm currently learning **TypeScript**
-- 🤝 I'm looking for help with **ESP32 microcontrollers/Arduino framework**
-- 💬 Ask me about **Testing, Automation, Workflow Ideas**
-- 📫 How to reach me **[chris@chrisbritten.ca](mailto:chris@chrisbritten.ca)**
-- ⚡ Fun fact **Sound can be minus decibels.**
-- 👨‍💻 Some of my top projects are available at **[https://chrisbritten.ca/](https://chrisbritten.ca/)**
+-  I'm currently working on **Scaling Web Applications**
+-  I'm currently learning **TypeScript**
+-  I'm looking for help with **ESP32 microcontrollers/Arduino framework**
+-  Ask me about **Testing, Automation, Workflow Ideas**
+-  How to reach me **[chris@chrisbritten.ca](mailto:chris@chrisbritten.ca)**
+-  Fun fact **Sound can be minus decibels.**
+-  My Portfolio -> **[https://chrisbritten.ca/](https://chrisbritten.ca/)**
 
 Powered by Java ☕
 
