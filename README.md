@@ -8,7 +8,7 @@
 -  Fun fact **Sound can be minus decibels.**
 -  My Portfolio  **[https://chrisbritten.ca/](https://chrisbritten.ca/)**
 
-Powered by Java ☕
+   Powered by ☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;"><a href="https://www.linkedin.com/in/christopher-britten" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Britten LinkedIn" height="30" width="40" /></a></p>
