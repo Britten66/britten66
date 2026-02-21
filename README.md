@@ -1,6 +1,6 @@
 # Hi 👋, I'm Christopher Britten
 ### Full Stack Developer
-- 🔭 I'm currently working on **Web App Development ( mobile integration )**
+- 🔭 I'm currently working on **Scaling Web Applications**
 - 🌱 I'm currently learning **TypeScript**
 - 🤝 I'm looking for help with **ESP32 microcontrollers/Arduino framework**
 - 💬 Ask me about **Testing, Automation, Workflow Ideas**
