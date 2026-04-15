@@ -16,10 +16,10 @@ Powered by ☕
    <a href="https://www.linkedin.com/in/christopher-britten" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Britten LinkedIn" height="30" width="40" /></a>
  </p>
 
-<h3 align="left">Active Public Tests:</h3>
+<!-- <h3 align="left">Active Public Tests:</h3>
  <p align="left">
   <a href="https://britten66.github.io/receipt-generator/test-report/" target="_blank"><img src="https://img.shields.io/badge/Allure%20Report-View%20Results-brightgreen?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTVMMTIgMnpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiLz48L3N2Zz4=" alt="Allure Report"/></a>
-</p>
+</p> -->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
