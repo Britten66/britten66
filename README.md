@@ -4,7 +4,7 @@
 - I'm currently working on **Scaling Web Applications as SaaS Platforms to Learn Complex Architecture Decisions**
 - I'm currently learning **TypeScript**
 - I'm looking for help with **ESP32 microcontrollers/Arduino framework**
-- Ask me about **Testing, Automation, Workflow Ideas**
+- Ask me about **AI, Testing, Automation, Workflow Ideas**
 - How to reach me **[chris@chrisbritten.ca](mailto:chris@chrisbritten.ca)**
 - Fun fact **Sound can be minus decibels.**
 - My Portfolio **[https://chrisbritten.ca/](https://chrisbritten.ca/)**
